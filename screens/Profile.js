@@ -11,8 +11,8 @@ export default function Profile() {
             style={{height:200}}
             source={{uri: require("../assets/profile.jpg")}}
        />
-       <ProfileItems name="UserName" value="Atefah Mohammadi" />
-       <ProfileItems name="Gamil"    value="Atefa@gmail.com" />
+       <ProfileItems name="UserName" value="Aqida Haidari" />
+       <ProfileItems name="Gamil"    value="Aqida@gmail.com" />
        <ProfileItems name="Gender"    value="Famile" />
        <ProfileItems name="Mobile"     value="0777 888 999" />
        <ProfileItems name="Address"     value="Herat/Afghanistan" />
